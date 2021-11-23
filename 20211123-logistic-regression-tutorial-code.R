@@ -7,7 +7,7 @@
 ############################################################################
 
 # before running code, install packages through the tools menu
-# packages to install: tidyverse, table1, finalfit, knitr
+# packages to install: tidyverse, table1, finalfit, knitr, odds.n.ends, car
 # open packages using the library function
 library(package = "tidyverse")
 library(package = "table1")
