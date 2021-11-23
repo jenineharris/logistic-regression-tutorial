@@ -1,6 +1,6 @@
 # A Primer on Binary Logistic Regression (in R)
 
-This repository contains the statistical source code for the logistic regression primer by Jenine Harris. If you are new to R, follow the instructions below to install the appropriate software and download the source code.
+This repository contains the statistical source code for the logistic regression primer by Jenine K. Harris. If you are new to R, follow the instructions below to install the appropriate software and download the source code.
 
 ### Getting Started in R
 
@@ -8,9 +8,9 @@ R is a statistical software that is <a href = "https://www.r-project.org">free, 
 
 R can do everything that paid statistical software like SPSS and SAS can do, and often more! <a href = "http://r4stats.com/2019/05/28/data-science-jobs-report-2019-python-way-up-tensorflow-growing-rapidly-r-use-double-sas/">Analysis of data on job openings and other metrics</a> shows that R is increasingly included as a desired or required skill, often surpassing traditional closed source software like SPSS and SAS. R is particularly great for **data management** and developing amazing **data visualizations**.
 
-### Installing R and R Studio
+### Install R and RStudio
 
-R is the software and R Studio is the IDE (Interactive Development Environment) that makes R easier to use. Install R **before** you install R Studio because R Studio will look for R during installation.
+R is the software and RStudio is the IDE (Interactive Development Environment) that makes R easier to use. Install R **before** you install RStudio because RStudio will look for R during installation.
 
 First, download and install R:
 
@@ -23,13 +23,33 @@ First, download and install R:
   <li> Use the installer that downloads to install R 
 </ul>
 
-Second, download and install R Studio:
+Second, download and install RStudio:
 
 <ul>
-  <li> Go to the R Studio <a href = "https://rstudio.com/products/rstudio/download/"> downloads page</a> 
+  <li> Go to the RStudio <a href = "https://rstudio.com/products/rstudio/download/"> downloads page</a> 
   <li> Click on the DOWNLOAD button under the RStudio Desktop column on the downloads page
   <li> Choose the Download for the operating system you have and click on it  
-  <li> Use the installer that downloads to install R Studio 
+  <li> Use the installer that downloads to install RStudio 
 </ul>
 
-### 
+### Download and save R code file
+
+Download the code file:
+
+<ul>
+<li> Click on the green Code button toward the top of this GitHub page
+<li> Choose Download ZIP
+<li> Unzip the downloaded zip file and save all the files in a single folder on your computer
+</ul>
+
+### Install the tidyverse, finalfit, knitr and table1 packages
+
+Open RStudio and follow these instructions :
+
+<ul>
+<li> Click on the Tools menu
+<li> Type <b>tidyverse, table1, finalfit, knitr</b> into the dialog box that opens
+<li> Click install (R will do stuff for a while, this might look like errors but is fine)
+</ul>
+
+### Open, highlight, and run the downloaded R code file
