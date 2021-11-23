@@ -42,13 +42,13 @@ Download the code file:
 <li> Unzip the downloaded zip file and save all the files in a single folder on your computer
 </ul>
 
-### Install the tidyverse, finalfit, knitr and table1 packages
+### Install the tidyverse, finalfit, knitr, car, odds.n.ends, and table1 packages
 
 Open RStudio and follow these instructions :
 
 <ul>
 <li> Click on the Tools menu
-<li> Type <b>tidyverse, table1, finalfit, knitr</b> into the dialog box that opens
+<li> Type <b>tidyverse, table1, finalfit, knitr, car, odds.n.ends</b> into the dialog box that opens
 <li> Click install (R will do stuff for a while, this might look like errors but is fine)
 </ul>
 
