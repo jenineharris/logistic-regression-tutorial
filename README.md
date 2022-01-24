@@ -2,6 +2,8 @@
 
 This repository contains the statistical source code for the logistic regression primer by Jenine K. Harris. If you are new to R, follow the instructions below to install the appropriate software and download the source code.
 
+(Update January 24, 2022) The repository now also contains the Stata code and data files to reproduce the analyses. The files are called **lab 2 data.dta** and **Lab 2 do file.do**. These files were contributed by <a href = "mailto:sdoi@qu.edu.qa">Suhail A. R. Doi</a> and <a href = "mailto: tchivese@qu.edu.qa">Tawanda Chivese</a> of the College of Medicine at Qatar University in Doha, Qatar. 
+
 ### Getting Started in R
 
 R is a statistical software that is <a href = "https://www.r-project.org">free, open-source, and can run on most operating systems</a>. This means that anyone in the world with access to a computer and the internet can use it and anyone in the world can contribute to the development of new tools in R. 
